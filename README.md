@@ -1,8 +1,6 @@
 # Hole_Detection
 
-A CNN used to detect holes, tunnels and plain objects. 
+The final project for the course CPS 843 - Introduction to Computer Vision. 
 
-More details to come...
-
-Later on...
+A Convolutional Neural Network (CNN) that can to detect holes, tunnels and plain objects. 
 
